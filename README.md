@@ -28,6 +28,18 @@ This project focuses on analyzing supply chain operations using data visualizati
 
 ---
 
+## 📷 Dashboard Preview
+
+### Main Dashboard
+![Dashboard](dashboardd.png)
+
+### report Analysis
+![report](report.png)
+
+### Supplier View
+![Supplier](supplier.png)
+
+---
 
 
 ## 🔍 Data Processing Steps
