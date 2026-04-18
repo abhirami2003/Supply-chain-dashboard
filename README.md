@@ -16,7 +16,6 @@ This project focuses on analyzing supply chain operations using data visualizati
 ## 🛠️ Tools & Technologies
 - Power BI (Dashboard & Visualization)
 - MS Excel (Data Cleaning & Preparation)
-- SQL (Data Analysis)
 
 ---
 
@@ -54,16 +53,9 @@ This project focuses on analyzing supply chain operations using data visualizati
 2. Open using Power BI Desktop  
 3. Use filters and slicers to explore insights  
 
----
-
-## 💡 Future Improvements
-- Integration with real-time data sources  
-- Advanced forecasting using machine learning  
-- Automation of data pipeline  
 
 ---
 
 ## 👩‍💻 Author
 **G. Abhi Rami**  
 📧 gundrathiabhirami03@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/g-abhi-rami
